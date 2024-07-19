@@ -23,3 +23,8 @@ double calculateFuel(double distance) {
     }
     return 100;
 }
+
+
+
+// Problem URL:
+// https://edabit.com/challenge/9rLomMgbyFZ5Yv6mE
